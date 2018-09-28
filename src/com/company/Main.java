@@ -14,7 +14,6 @@ class MatrixThreads implements Runnable{
         this.d = d;
         start = _start;
         stop = _stop;
-
     }
 
 
